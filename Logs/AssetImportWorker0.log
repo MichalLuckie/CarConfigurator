@@ -171,3 +171,9 @@ Received Import Request.
   path: Assets
   artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79842766b460edbeab6a34051e857a80') in 0.027169 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1134.592498 seconds.
+  path: Assets/main.unity
+  artifactKey: Guid(4bb668e91d2082a4a95c2a8f914b5d8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/main.unity using Guid(4bb668e91d2082a4a95c2a8f914b5d8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d36983f64451e6133bee369862a46a2') in 0.086572 seconds 
